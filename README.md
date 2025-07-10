@@ -22,4 +22,5 @@ python main.py</h3>
 ![readme_images/postman_post.jpg](readme_images/postman_post.jpg)
 
 <h4>GET /reviews</h4>
+
 ![readme_images/curl_get.jpg](readme_images/curl_get.jpg)
