@@ -7,7 +7,7 @@ from typing import List
 from settings import HOST, PORT
 from db.models import engine, Reviews
 from db.utils import insert_review
-from validation_schemas import ReviewIn, ReviewOut
+from response_schemas import ReviewIn, ReviewOut
 from utils import get_sentiment
 
 
