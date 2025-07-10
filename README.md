@@ -17,9 +17,12 @@ python main.py</h3>
 ## Примеры curl-запросов
 <h4>POST /reviews</h4>
 на латинице тк при вводе в курле кириллици выдает ошибку парсинга 
+
 ![curl_post.jpg](readme_images/curl_post.jpg)
+
 ![readme_images/postman_post.jpg](readme_images/postman_post.jpg)
 
 <h4>GET /reviews</h4>
 курла гет запроса
+
 ![readme_images/curl_post.jpg](readme_images/curl_post.jpg)
