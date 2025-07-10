@@ -23,6 +23,5 @@ python main.py</h3>
 ![readme_images/postman_post.jpg](readme_images/postman_post.jpg)
 
 <h4>GET /reviews</h4>
-курла гет запроса
 
 ![readme_images/curl_post.jpg](readme_images/curl_post.jpg)
