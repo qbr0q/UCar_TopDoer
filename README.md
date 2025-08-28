@@ -1,4 +1,4 @@
-<h3>Тестовое задание для конторы UCAR<>TOPDOER
+<h3>Тестовое задание для компании UCAR<>TOPDOER
 
 1. Клонируй репозиторий
 git clone https://github.com/qbr0q/UCar_TopDoer.git <br>
